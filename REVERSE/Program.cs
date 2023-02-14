@@ -10,6 +10,7 @@
             a= Console.ReadLine();
             var b = a.Reverse();
             Console.WriteLine("reversed name is"+ b );
+            Console.WriteLine("kkk");
 
                 }
     }
